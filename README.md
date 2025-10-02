@@ -1,4 +1,4 @@
-# 🎮 Minecraft Server Installer by Henzy
+# 🎮 Minecraft Server Maker by Henzy
 
 Minecraft sunucularını tek tıkla kuran otomatik kurulum programı.
 
